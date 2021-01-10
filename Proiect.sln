@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect", "Proiect.csproj", "{A6D3CECB-D89C-4BE0-9DB2-1D1CC0A7F2AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookBookModel", "..\CookBookModel\CookBookModel.csproj", "{06152AD8-A52B-4794-AD03-8A1C83EE9795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D3CECB-D89C-4BE0-9DB2-1D1CC0A7F2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D3CECB-D89C-4BE0-9DB2-1D1CC0A7F2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D3CECB-D89C-4BE0-9DB2-1D1CC0A7F2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D3CECB-D89C-4BE0-9DB2-1D1CC0A7F2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06152AD8-A52B-4794-AD03-8A1C83EE9795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06152AD8-A52B-4794-AD03-8A1C83EE9795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06152AD8-A52B-4794-AD03-8A1C83EE9795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06152AD8-A52B-4794-AD03-8A1C83EE9795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D3D992-AAC7-4444-BECD-DFEBF45CEA2D}
+	EndGlobalSection
+EndGlobal
